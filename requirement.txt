@@ -1,0 +1,9 @@
+streamlit==1.37.1
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+faker==25.0.1
+ctgan==0.8.0
+rdt==1.12.2
+scikit-learn==1.5.2
+plotly==5.24.1
